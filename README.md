@@ -3,7 +3,6 @@ This adds the ability to lock and unlock vehicles from inside the vehicle with e
 
 Installation Instruction
 
-== Client Side ==
 Step 1: Open your initPlayerLocal.sqf and paste the following into it (There is an example initPlayerLocal.sqf you can use to copy from)
 
 [] execVM "Custom\Actions\fnc_showActions.sqf";
