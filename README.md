@@ -19,4 +19,13 @@ class CfgExileCustomCode
 	ExileClient_gui_hud_event_onKeyUp = "Custom\overwrites\ExileClient_gui_hud_event_onKeyUp.sqf";
 };
 
+Step 3: Edit your description.exe and add the following
+
+class CfgFunctions
+{
+	#include "Custom\CfgFunctions.cpp"
+};
+
+Step 4: Place the Custom folder into your mission folder
+
 That's it Enjoy!
