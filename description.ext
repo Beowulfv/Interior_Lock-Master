@@ -70,8 +70,6 @@ showHUD[] =
 };
 
 #include "config.cpp"
-#include "CfgRemoteExec.hpp"
-#include "infiSTAR_AdminMenu.hpp"
 
 class CfgFunctions
 {
